@@ -1,0 +1,7 @@
+sample_policies/*
+*.csv
+*~
+*.png
+*.ajl
+*.ajl.bak
+data/*

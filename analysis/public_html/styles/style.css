@@ -1,0 +1,18 @@
+div.query {
+    float: right;
+    height: 100%;
+
+}
+
+#queryframe {
+    height:100%;
+    width:100%;
+}
+
+div.metricsd {
+    width:75%;
+}
+
+table.metricst {
+    width:100%;
+}

@@ -1,0 +1,9 @@
+[submodule "analysis/simhash-py"]
+	path = analysis/simhash-py
+	url = https://github.com/seomoz/simhash-py.git
+[submodule "analysis/webXray_Domain_Owner_List"]
+	path = analysis/webXray_Domain_Owner_List
+	url = https://github.com/timlib/webXray_Domain_Owner_List.git
+[submodule "analysis/tracker-radar"]
+	path = analysis/tracker-radar
+	url = https://github.com/duckduckgo/tracker-radar.git
