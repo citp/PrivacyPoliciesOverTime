@@ -56,6 +56,8 @@ cd notebooks
 ./run_nb.sh
 ```
 
+Unfortunately they're a bit of a mess. If you're looking for a specific analysis, I recommend looking for the corresponding graph or number in the pre-generated output.
+
 # Miscellaneous
 The `python/` and `python/ncd_graphs/` folders contain scripts from our initial exploration of the which phrases are most "conserved"
 
